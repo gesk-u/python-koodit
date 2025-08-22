@@ -1,6 +1,6 @@
 import random
-code_3 = []
-code_4 = []
+code_33 = []
+code_44 = []
 
 for i in range(3):
     a = str(random.randint(0, 9))
