@@ -1,7 +1,7 @@
 import random
 code_3 = []
 code_4 = []
-
+ 
 for i in range(3):
     a = str(random.randint(0, 9))
     code_3.append(a)
